@@ -1,0 +1,19 @@
+Api-sGoogle/
+│
+├── .github/
+│   └── workflows/
+│       └── main.yml
+│
+├── src/
+│   ├── main.py
+│   ├── google_api.py
+│   ├── telegram_api.py
+│
+├── tests/
+│   ├── test_google.py
+│   ├── test_telegram.py
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
