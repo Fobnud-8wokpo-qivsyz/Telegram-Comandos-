@@ -1,15 +1,22 @@
-# Telegram-Comandos-
+# 📋 Telegram-Comandos-
 
-🛠️ **Esquema y opciones de comandos para developers en Telegram.** Perfecto para construir bots robustos y escalables.
+**Esquema y opciones de comandos para developers de bots en Telegram.**
 
-## Features
-- Comandos listos para usar
-- Ejemplos prácticos
-- Integraciones con APIs
+Repositorio con comandos, esquemas y ejemplos prácticos para construir bots potentes en Telegram usando PHP y otras tecnologías.
 
-## Uso
-Integra estos esquemas en tu bot Telegram. Mantén actualizado con Dependabot.
+## 🌟 Contenido
+- Comandos listos para integrar.
+- Diagramas de flujo y estructuras.
+- Integraciones con APIs externas.
+- Workflows para CI/CD y Dependabot.
 
-**Consejo Grok:** La claridad en la estructura de comandos lleva a menos bugs y más diversión. Explora, experimenta, itera.
+## 🚀 Uso Rápido
+Explora los archivos de comandos y adáptalos a tu bot. Configura tokens y ¡listo!
 
-¡Contribuye y hagamos que el código entienda el universo mejor!
+## Estructura
+Similar a Api-sGoogle, con carpetas organizadas para scripts y herramientas.
+
+## Licencia
+Apache 2.0
+
+¡Mejora tus bots con estos comandos! 🤖
