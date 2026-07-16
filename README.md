@@ -1,23 +1,22 @@
 # 📜 Telegram-Comandos-
 
-**Esquema completo de comandos, plantillas y herramientas para developers de Telegram.**
+**Guía definitiva de comandos, plantillas y herramientas para Telegram Developers.**
 
-## Descripción
-Repositorio con todo lo necesario para bots Telegram: comandos, proxies, MadelineProto, workflows, diagramas y scripts variados.
+## Visión
+Colección exhaustiva de esquemas de comandos, ejemplos de bots, proxies, MadelineProto y más. Perfecto para construir bots potentes y seguros.
 
-## ✨ Lo Destacado
-- Comandos y APIs listas.
-- Proxies y seguridad.
-- Automatizaciones con GitHub Actions.
-- Dependabot activado.
+## Contenido Destacado
+- Comandos listos para usar.
+- Proxies y configuraciones avanzadas.
+- Workflows GitHub para automatización.
+- Diagramas y documentación.
 
-## Estructura
-Archivos individuales y carpetas para bots, APIs, etc. Recomendación: Agrupar en subcarpetas para mejor organización.
+## Organización (Mejorando)
+Archivos en raíz se moverán a subcarpetas como `/comandos/`, `/bots/`, `/proxies/` para claridad.
 
 ## Uso
-Clona y explora los archivos. Configura tokens y ejecuta.
+Clona el repo, explora, adapta y despliega.
 
-## Dependabot
-Activo - automatiza actualizaciones de dependencias.
+Dependabot activo. ¡Seguridad primero!
 
-Mejorado por Grok: Estructura clara, útil y en constante evolución.
+Mejorado por Grok (xAI): Estructurado, práctico y siempre mejorando.
