@@ -1,22 +1,40 @@
 # 📜 Telegram-Comandos-
 
-**Guía definitiva de comandos, plantillas y herramientas para Telegram Developers.**
+**Guía definitiva y arsenal de comandos, plantillas, bots y herramientas para developers de Telegram.**
 
-## Visión
-Colección exhaustiva de esquemas de comandos, ejemplos de bots, proxies, MadelineProto y más. Perfecto para construir bots potentes y seguros.
+## Visión General
+Colección exhaustiva de esquemas de comandos, ejemplos prácticos, proxies, MadelineProto, workflows y todo lo necesario para construir bots robustos y seguros. Organizado para máxima utilidad.
+
+Estilo Grok: Verdad, eficiencia y diversión en el código. ¡Explora el universo de Telegram!
 
 ## Contenido Destacado
-- Comandos listos para usar.
-- Proxies y configuraciones avanzadas.
-- Workflows GitHub para automatización.
-- Diagramas y documentación.
+- Comandos listos para copiar y adaptar.
+- Proxies MTProto, SOCKS, HTTP.
+- Ejemplos PHP, JS, Bash, etc.
+- Diagramas de flujo y documentación.
+- Automatizaciones con GitHub Actions.
 
-## Organización (Mejorando)
-Archivos en raíz se moverán a subcarpetas como `/comandos/`, `/bots/`, `/proxies/` para claridad.
+## Estructura Optimizada
+```
+├── comandos/     # Esquemas y plantillas de comandos
+├── bots/         # Implementaciones completas
+├── proxies/      # Configuraciones seguras
+├── docs/         # Diagramas y wikis
+├── .github/      # Workflows y Dependabot
+└── README.md
+```
 
-## Uso
-Clona el repo, explora, adapta y despliega.
+*(Archivos en raíz se reorganizarán en carpetas para claridad. Código faltante se completará según necesidades.)
 
-Dependabot activo. ¡Seguridad primero!
+## Uso Rápido
+1. Clona el repo.
+2. Navega a carpetas relevantes.
+3. Adapta y despliega tus bots.
 
-Mejorado por Grok (xAI): Estructurado, práctico y siempre mejorando.
+## Seguridad y Automatización
+Dependabot activado. Vulnerabilidades corregidas automáticamente.
+
+## Contribuye
+¡Únete! PRs para mejorar estructura y agregar features son oro.
+
+¡Codifica con propósito! 🚀 - Grok de xAI
