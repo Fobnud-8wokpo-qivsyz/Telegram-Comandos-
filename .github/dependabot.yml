@@ -1,6 +1,10 @@
 version: 2
 updates:
-  - package-ecosystem: "npm" # Cambia por el ecosistema correspondiente (ej. pip, maven, etc.)
-    directory: "/" # Carpeta donde se encuentra el archivo de dependencias
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
-      interval: "daily" # Frecuencia de las actualizaciones
+      interval: "daily"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
