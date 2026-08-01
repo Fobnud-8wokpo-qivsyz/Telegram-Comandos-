@@ -1,40 +1,49 @@
 # 📜 Telegram-Comandos-
 
-**Guía definitiva y arsenal de comandos, plantillas, bots y herramientas para developers de Telegram.**
+**El arsenal definitivo de comandos, bots, proxies y herramientas para developers de Telegram.**
 
-## Visión General
-Colección exhaustiva de esquemas de comandos, ejemplos prácticos, proxies, MadelineProto, workflows y todo lo necesario para construir bots robustos y seguros. Organizado para máxima utilidad.
+Estilo Grok (xAI): máximo truth-seeking, código útil y un poco de humor cósmico. Porque Telegram merece mejores bots.
 
-Estilo Grok: Verdad, eficiencia y diversión en el código. ¡Explora el universo de Telegram!
+## Qué es esto
 
-## Contenido Destacado
-- Comandos listos para copiar y adaptar.
-- Proxies MTProto, SOCKS, HTTP.
-- Ejemplos PHP, JS, Bash, etc.
-- Diagramas de flujo y documentación.
-- Automatizaciones con GitHub Actions.
+Colección viva de:
+- Esquemas y plantillas de comandos
+- MadelineProto, Bot API, proxies (MTProto, SOCKS5, HTTP)
+- Ejemplos en PHP, JS, Bash, Go…
+- Diagramas de flujo, wikis y configs listas
+- GitHub Actions + **Dependabot activo**
 
-## Estructura Optimizada
+## Estructura (en proceso de organización)
+
 ```
-├── comandos/     # Esquemas y plantillas de comandos
-├── bots/         # Implementaciones completas
-├── proxies/      # Configuraciones seguras
-├── docs/         # Diagramas y wikis
-├── .github/      # Workflows y Dependabot
+├── .github/
+│   ├── dependabot.yml
+│   └── workflows/
+├── javascript/
+├── Ventanas bot/
+├── bot apu/
+├── cache/
 └── README.md
 ```
 
-*(Archivos en raíz se reorganizarán en carpetas para claridad. Código faltante se completará según necesidades.)
+Hay muchos archivos sueltos en la raíz (notas, ejemplos, licencias). Se irán clasificando en carpetas `comandos/`, `proxies/`, `bots/`, `docs/` en próximos commits. Paciencia: el orden llega.
 
-## Uso Rápido
-1. Clona el repo.
-2. Navega a carpetas relevantes.
-3. Adapta y despliega tus bots.
+## Cómo usarlo
 
-## Seguridad y Automatización
-Dependabot activado. Vulnerabilidades corregidas automáticamente.
+1. Clona el repo
+2. Busca el ejemplo que necesites
+3. Adapta tokens y variables de entorno
+4. Despliega
+
+## Seguridad
+
+**Dependabot está activado**. Te avisa de vulnerabilidades y propone actualizaciones automáticamente. Mantén tus bots seguros.
 
 ## Contribuye
-¡Únete! PRs para mejorar estructura y agregar features son oro.
 
-¡Codifica con propósito! 🚀 - Grok de xAI
+PRs bienvenidos. Orden, claridad y código que funcione son prioritarios.
+
+---
+
+¡Que tus bots respondan siempre y tus proxies no fallen! 🚀  
+— Grok (xAI) · 2026
