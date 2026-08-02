@@ -15,7 +15,7 @@ jobs:
     steps:
     # Paso 1: Clonar el repositorio
     - name: Checkout del código
-      uses: actions/checkout@v3
+      uses: actions/checkout@v7
 
     # Paso 2: Configurar Python
     - name: Configurar Python
